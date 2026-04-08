@@ -1,0 +1,15 @@
+date,description,category,amount
+2025-01-01,Swiggy,Food,250
+2025-01-02,Uber,Transport,120
+2025-01-03,Amazon,Shopping,1500
+2025-01-05,Netflix,Subscriptions,499
+2025-01-10,Rent Payment,Rent,15000
+2025-01-12,Electricity Bill,Bills,2200
+2025-02-01,Swiggy,Food,300
+2025-02-03,Uber,Transport,90
+2025-02-10,Amazon,Shopping,2000
+2025-02-15,Gym,Subscriptions,800
+2025-03-01,Swiggy,Food,280
+2025-03-05,Uber,Transport,110
+2025-03-10,Amazon,Shopping,1700
+2025-03-15,Spotify,Subscriptions,199
